@@ -27,7 +27,7 @@ public class Paint extends JFrame{
 		
 	}
 
-	public static void Main (String[] args) {
+	public static void main (String[] args) {
 		Paint ventana = new Paint("Paint");
 		ventana.init();
 		ventana.setVisible();
